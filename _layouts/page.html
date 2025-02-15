@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="page__info">
+        <h1 class="page__title">{{ page.title | escape }}</h1>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- begin page -->
+<div class="container animate">
+  {% if page.image %}
+  <div class="row">
+    <div class="col col-12">
+      <div class="page-image">
+        <img src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}" />
+      </div>
+      {% if page.image_attribution %}
+      <!-- Place the <em> directly after the <img> so CSS `img + em` picks it up -->
+      <em>{{ page.image_attribution | markdownify }}</em>
+      {% endif %}
+    </div>
+  </div>
+  {% endif %}
+
+  <article class="page">
+    <div class="page__content">{{ content }}</div>
+  </article>
+</div>
+<!-- end page -->
