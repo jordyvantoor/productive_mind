@@ -1,8 +1,8 @@
 ---
 layout: post
-title: '"Decisive: How to Make Better Choices in Life and Work” by Chip Heath and Dan Heath'
+title: '"Decisive: How to Make Better Choices in Life and Work" by Chip Heath and Dan Heath'
 date: 2025-01-18 15:01:35 +0300
-image: "/images/slidebean-iW9oP7Ljkbg-unsplash.jpg"
+image: "/images/nathan-dumlao-OKCCCbyon28-unsplash.jpg"
 image_attribution: "Photo by <a href='https://unsplash.com/@nate_dumlao'>Nathan Dumlao</a> on <a href='https://unsplash.com/photos/mens-black-jacket-OKCCCbyon28'>Unsplash</a>"
 tags: []
 description: "Discover 7 powerful lessons from _Decisive: How to Make Better Choices in Life and Work_ by Chip Heath and Dan Heath to improve your decision-making skills."
