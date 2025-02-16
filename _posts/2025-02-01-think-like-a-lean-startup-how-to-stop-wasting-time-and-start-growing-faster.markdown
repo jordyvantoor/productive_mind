@@ -5,7 +5,7 @@ date: 2025-02-01 15:01:35 +0300
 image: "/images/slidebean-iW9oP7Ljkbg-unsplash.jpg"
 image_attribution: "Photo by <a href='https://unsplash.com/@slidebean'>Slidebean</a> on <a href='https://unsplash.com/photos/person-writing-on-white-board-iW9oP7Ljkbg'>Unsplash</a>"
 tags: []
-description: "Learn how to apply principles from “The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses” by Eric Ries to grow faster and avoid wasted time."
+description: 'Learn how to apply principles from "The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses" by Eric Ries to grow faster and avoid wasted time.'
 ---
 
 In the relentless pursuit of growth, many businesses find themselves ensnared in a maze of complexity—endless meetings, exhaustive five-year plans, and a fixation on perfection before launch. The problem with traditional growth approaches lies in their rigidity. Companies pour time and resources into grandiose strategies only to realize, often too late, that the market has shifted beneath their feet. They build, polish, and perfect in isolation, disconnected from the very customers they're trying to serve.

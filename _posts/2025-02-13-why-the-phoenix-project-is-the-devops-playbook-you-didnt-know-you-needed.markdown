@@ -5,7 +5,7 @@ date: 2025-02-13 15:01:35 +0300
 image: "/images/marvin-meyer-SYTO3xs06fU-unsplash.jpg"
 image_attribution: "Photo by <a href='https://unsplash.com/@marvelous'>Marvin Meyer</a> on <a href='https://unsplash.com/photos/people-sitting-down-near-table-with-assorted-laptop-computers-SYTO3xs06fU'>Unsplash</a>"
 tags: []
-description: Discover why _The Phoenix Project by Gene Kim, Kevin Behr, and George Spafford_ is the ultimate DevOps playbook, transforming IT and business operations.
+description: 'Discover why "The Phoenix Project by Gene Kim, Kevin Behr, and George Spafford" is the ultimate DevOps playbook, transforming IT and business operations.'
 ---
 
 In the chaotic world of IT operations, where outages lurk around every deployment and bottlenecks throttle innovation, _The Phoenix Project_ emerges as a battle-tested guide for survival. Written by Gene Kim, Kevin Behr, and George Spafford, this gripping business novel distills the essence of DevOps into a narrative so immersive that you’ll forget you’re actually learning. It follows Bill Palmer, an overworked IT manager thrust into a high-stakes mission: saving a failing project that could make—or break—the company. Along the way, Bill uncovers the fundamental principles of DevOps, transforming not just his team, but the entire organization.
