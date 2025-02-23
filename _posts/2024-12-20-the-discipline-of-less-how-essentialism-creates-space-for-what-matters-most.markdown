@@ -2,7 +2,7 @@
 layout: post
 title: "The Discipline of Less: How Essentialism Creates Space for What Matters Most"
 date: 2023-12-20 15:01:35 +0300
-image: "/images/glenn-carstens-peters-RLw-UC03Gwc-unsplash.jpg"
+image: "/images/norbert-levajsics-BMYQaySauY0-unsplash.jpg"
 image_attribution: "Photo by <a href='https://unsplash.com/@levajsics'>Norbert Levajsics</a> on <a href='https://unsplash.com/photos/apple-imac-on-wooden-desk-near-window-BMYQaySauY0'>Unsplash</a>"
 tags: []
 description: 'Discover how "Essentialism: The Disciplined Pursuit of Less" by Greg McKeown helps you eliminate the nonessential, focus on what truly matters, and reclaim your time.'
