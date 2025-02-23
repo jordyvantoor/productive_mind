@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Discipline of Less: How Essentialism Creates Space for What Matters Most"
-date: 2023-12-20 15:01:35 +0300
+date: 2024-12-20 15:01:35 +0300
 image: "/images/norbert-levajsics-BMYQaySauY0-unsplash.jpg"
 image_attribution: "Photo by <a href='https://unsplash.com/@levajsics'>Norbert Levajsics</a> on <a href='https://unsplash.com/photos/apple-imac-on-wooden-desk-near-window-BMYQaySauY0'>Unsplash</a>"
 tags: []
