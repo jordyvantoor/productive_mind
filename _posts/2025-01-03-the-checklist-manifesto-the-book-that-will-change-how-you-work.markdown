@@ -3,7 +3,7 @@ layout: post
 title: "The Checklist Manifesto: The Book That Will Change How You Work"
 date: 2025-01-03 15:01:35 +0300
 image: "/images/glenn-carstens-peters-RLw-UC03Gwc-unsplash.jpg"
-image_attribution: "Photo by <a href='https://unsplash.com/@glenncarstenspeters'>Nathan Dumlao</a> on <a href='https://unsplash.com/photos/person-writing-bucket-list-on-book-RLw-UC03Gwc'>Unsplash</a>"
+image_attribution: "Photo by <a href='https://unsplash.com/@glenncarstenspeters'>Glenn Carstens-Peters</a> on <a href='https://unsplash.com/photos/person-writing-bucket-list-on-book-RLw-UC03Gwc'>Unsplash</a>"
 tags: []
 description: 'Discover how "The Checklist Manifesto: How to Get Things Right" by Atul Gawande transforms the way you work with simple yet powerful checklist strategies.'
 ---
