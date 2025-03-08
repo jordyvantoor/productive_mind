@@ -5,7 +5,7 @@ date: 2024-12-02 15:01:35 +0300
 image: "/images/christina-wocintechchat-com-LQ1t-8Ms5PY-unsplash.jpg"
 image_attribution: "Photo by <a href='https://unsplash.com/@wocintechchat'>Christina @ wocintechchat.com</a> on <a href='https://unsplash.com/photos/two-women-sitting-beside-table-and-talking-LQ1t-8Ms5PY'>Unsplash</a>"
 tags: []
-description: "Discover why _Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity_ by Kim Scott is the key to leadership success. Learn how honesty fuels growth."
+description: 'Discover why "Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity" by Kim Scott is the key to leadership success. Learn how honesty fuels growth.'
 ---
 
 Leadership is an intricate dance—part strategy, part psychology, and a whole lot of courage. At its core, great leadership isn’t about authority or charisma; it’s about navigating the messy, unpredictable world of human dynamics. Yet, despite endless books, seminars, and TED Talks promising the magic formula, many leaders still struggle. They hesitate to deliver tough feedback. They tiptoe around difficult conversations. They either come off as too harsh or too hands-off, leaving their teams disengaged and directionless.

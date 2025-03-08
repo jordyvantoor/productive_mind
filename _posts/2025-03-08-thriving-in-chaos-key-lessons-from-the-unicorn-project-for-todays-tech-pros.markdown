@@ -5,7 +5,7 @@ date: 2025-03-08 15:01:35 +0300
 image: "/images/fatos-bytyqi-Agx5_TLsIf4-unsplash.jpg"
 image_attribution: "Photo by <a href='https://unsplash.com/@fatosi'>Fatos Bytyqi</a> on <a href='https://unsplash.com/photos/gray-laptop-computer-on-brown-wooden-desk-Agx5_TLsIf4'>Unsplash</a>"
 tags: []
-description: "Discover key insights from _The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data_ by Gene Kim to excel in today’s fast-paced tech world."
+description: 'Discover key insights from "The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data" by Gene Kim to excel in today’s fast-paced tech world.'
 ---
 
 The tech world is a battlefield. Speed is currency, innovation is survival, and bureaucracy is the silent killer of progress. Enter _The Unicorn Project_, Gene Kim’s electrifying companion to _The Phoenix Project_, which rips the veil off dysfunctional corporate IT and reveals the unsung heroes—developers, architects, and rebels—who fight to keep the wheels turning. It’s a story of redemption, resilience, and the raw power of elite engineering teams who refuse to be shackled by outdated processes.
