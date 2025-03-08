@@ -48,7 +48,7 @@ The most resilient tech pros aren’t just problem-solvers; they are opportunity
 
 #### Sharpen the Workflow, Slash the Waste
 
-Efficiency isn’t about working harder—it’s about removing friction. Take a hard look at your daily processes: Where does work stall? What bottlenecks create drag? Apply the _\*\_Five Ideals_ from _The Unicorn Project_—focus on relentless automation, optimize for developer joy, and prioritize fast feedback loops. Implement value stream mapping to pinpoint inefficiencies, ruthlessly eliminate toil, and embrace continuous integration and deployment (CI/CD) for seamless delivery.
+Efficiency isn’t about working harder—it’s about removing friction. Take a hard look at your daily processes: Where does work stall? What bottlenecks create drag? Apply the _Five Ideals_ from _The Unicorn Project_—focus on relentless automation, optimize for developer joy, and prioritize fast feedback loops. Implement value stream mapping to pinpoint inefficiencies, ruthlessly eliminate toil, and embrace continuous integration and deployment (CI/CD) for seamless delivery.
 
 #### Forge a Culture of Resilient, High-Performing Teams
 
